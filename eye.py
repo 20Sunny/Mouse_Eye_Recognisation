@@ -33,3 +33,4 @@ while True:
             pyautogui.sleep(1)
     cv2.imshow('Eye Controlled Mouse',Frame)
     cv2.waitKey(1)
+    
